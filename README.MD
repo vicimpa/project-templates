@@ -1,7 +1,17 @@
-# Шаблоны моих проектов
+# vite-react-typescript
 
-Открыв ветки, увидите все шаблоны
+Шаблон для проекта на vite / react / typescript
 
-## Вот список
+## Запуск
 
-- Пока ничего нет =)
+```bash
+> npm install
+> npm run dev
+```
+
+## Сборка
+
+```bash
+> npm install
+> npm run build
+```
