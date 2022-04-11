@@ -4,4 +4,4 @@
 
 ## Вот список
 
-- Пока ничего нет =)
+- [vite-react-typescript](/tree/vite-react-typescript)
